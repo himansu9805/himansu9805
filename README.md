@@ -10,6 +10,8 @@
     <li>Pursuing  B.E. in Computer Engineering.</li>
   </ul>
 </div>
+<br>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himansu9805&show_icons=true&locale=en&layout=compact" alt="himansu9805" /></p>
 <div>
   <p><img align="right" src="./assets/gifs/windows-error.gif" width="30%" alt="windows-error-gif" /></p>
