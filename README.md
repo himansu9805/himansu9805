@@ -1,6 +1,4 @@
-<h2 align="center">Namaste!</h2>
-<h1 align="center"> I'm Himansu</h1>
-
+<p><img align="center" src="./header.png" alt="header" /></p>
 <h3>About me:</h3>
 <ul>
   <li>I use Windows, please don't hate me!</li>
