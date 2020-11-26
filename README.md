@@ -10,11 +10,7 @@
     <li>Pursuing  B.E. in Computer Engineering.</li>
   </ul>
 </div>
-<br>
-<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himansu9805&show_icons=true&locale=en&layout=compact" alt="himansu9805" /></p>
-<br>
-
 <div>
   <p><img align="right" src="./assets/gifs/windows-error.gif" width="30%" alt="windows-error-gif" /></p>
   <h3 align="left">Languages and frameworks</h3>
@@ -28,5 +24,4 @@
   <a href="https://instagram.com/hiiimanshhhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hiiimanshhhu" height="30" width="40" /></a>
   </p>
 </div>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=himansu9805&show_icons=true&locale=en" alt="himansu9805" /></p>
