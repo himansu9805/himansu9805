@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **ExpressJS, React, Flask (planning to learn)**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himansu9805&show_icons=true&locale=en&layout=compact" alt="himansu9805" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himansu9805&show_icons=true&locale=en" alt="himansu9805" /></p>
 
 <h3 align="left">Connect with me:</h3>
