@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Himansu</h1>
-<h3 align="center">A passionate developer from India.</h3>
+<h2 align="center">Namaste!</h2>
+<h1 align="center"> I'm Himansu</h1>
+
+<h3>About me:</h3>
+<ul>
+  <li>I use Windows, please don't hate me!</li>
+  <li>I also use linux to look cool.</li>
+  <li>Currently taking a dive in web development.</li>
+  <li>Pursuing  B.E. in Computer Engineering.</li>
+</ul>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himansu9805&show_icons=true&locale=en&layout=compact" alt="himansu9805" /></p>
 
