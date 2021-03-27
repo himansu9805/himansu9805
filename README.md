@@ -15,6 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dbfb?style=flat-square&logo=React&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
 
 <h3>Tools:</h3>
 
