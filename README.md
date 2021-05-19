@@ -14,6 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dbfb?style=flat-square&logo=React&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-white?style=flat-square&logo=Flutter&logoColor=61dbfb)
 ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white)
 
