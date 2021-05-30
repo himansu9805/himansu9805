@@ -4,7 +4,7 @@
 <ul>
     <li>I use Windows, please don't hate me!</li>
     <li>I also use linux to look cool.</li>
-    <li>Currently taking a dive in web development.</li>
+    <li>Currently taking a dive in web and mobile application development.</li>
     <li>Pursuing  B.E. in Computer Engineering.</li>
 </ul>
   
