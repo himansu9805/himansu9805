@@ -13,6 +13,7 @@
 ![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61dbfb?style=flat-square&logo=React&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-white?style=flat-square&logo=Flutter&logoColor=61dbfb)
 ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=white)
