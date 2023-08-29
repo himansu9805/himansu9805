@@ -2,10 +2,10 @@
 
 <h3>About me:</h3>
 <ul>
-    <li>I use Windows, please don't hate me!</li>
-    <li>I also use linux to look cool.</li>
-    <li>Currently taking a dive in web and mobile application development.</li>
-    <li>Pursuing  B.E. in Computer Engineering.</li>
+    <li>Graduated in 2023 with a Bachelor of Engineering in Computer Engineering.</li>
+    <li>Currently pursuing Master of Technology from National Institute of Technlogy Jalandhar.</li>
+    <li>Area of interests are Deep Learning and Natural Language Processing.</li>
+    <li>Proficient in web development and Mobile Application Development.</li>
 </ul>
   
 <h3>Frameworks and Languages:</h3>
