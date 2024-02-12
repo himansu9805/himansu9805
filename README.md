@@ -5,7 +5,7 @@
     <li>Graduated in 2023 with a Bachelor of Engineering in Computer Engineering.</li>
     <li>Currently pursuing Master of Technology from National Institute of Technlogy Jalandhar.</li>
     <li>Area of interests are Deep Learning and Natural Language Processing.</li>
-    <li>Proficient in web development and Mobile Application Development.</li>
+    <li>Proficient in Web Development and Mobile Application Development.</li>
 </ul>
   
 <h3>Frameworks and Languages:</h3>
