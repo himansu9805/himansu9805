@@ -2,8 +2,8 @@
 
 <h3>About me:</h3>
 <ul>
-    <li>Currently working as an Intern at Intel Corporation.</li>
-    <li>Pursuing Master of Technology from National Institute of Technlogy Jalandhar.</li>
+    <li>Currently working as Systems and Solution Engineer at Intel Corporation.</li>
+    <li>Completed Master of Technology in 2025 from National Institute of Technlogy Jalandhar.</li>
     <li>Graduated in 2023 with a Bachelor of Engineering in Computer Engineering.</li>
     <li>Proficient in Full Stack and Android App Development.</li>
     <li>Planning to do some Linux Kernal Development.</li>
