@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Himansu's terminal</title>
+  <desc id="desc">A 90s shell interface with a green ASCII Himansu nameplate on a black CRT screen. Full Stack Developer. Deep Learning, LLMs, Agentic AI, DevOps, and Server Management.</desc>
+  <defs>
+    <radialGradient id="screen">
+      <stop stop-color="#0c1c12" />
+      <stop offset="1" stop-color="#030905" />
+    </radialGradient>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H4" stroke="#000000" stroke-opacity="0.18" />
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="498" fill="#101510" stroke="#687868" stroke-width="2" />
+  <rect x="6" y="6" width="1188" height="32" fill="#b0b7aa" />
+  <g font-family="Menlo, 'Courier New', monospace" font-size="16" fill="#111811">
+    <rect x="14" y="13" width="17" height="17" fill="#253025" />
+    <path d="M17 17L21 21L17 25M23 25H28" fill="none" stroke="#b0b7aa" />
+    <text x="44" y="28">xterm - himansu@github: ~</text>
+    <text x="1177" y="28" text-anchor="end">[_] [O] [X]</text>
+  </g>
+  <rect x="7" y="44" width="1186" height="448" fill="url(#screen)" stroke="#283e2c" />
+  <g font-family="Menlo, 'Courier New', monospace" font-size="16" fill="#8aaf8b">
+    <text x="36" y="78">login: guest</text>
+    <text x="1164" y="78" text-anchor="end">[ terminal: tty1 ]</text>
+  </g>
+  <g fill="#89f79b" role="img" aria-label="HIMANSU">
+    <path aria-label="H" d="M72 118h17v21h-17z M160 118h17v21h-17z M72 145h17v21h-17z M160 145h17v21h-17z M72 172h17v21h-17z M160 172h17v21h-17z M72 199h17v21h-17z M94 199h17v21h-17z M116 199h17v21h-17z M138 199h17v21h-17z M160 199h17v21h-17z M72 226h17v21h-17z M160 226h17v21h-17z M72 253h17v21h-17z M160 253h17v21h-17z M72 280h17v21h-17z M160 280h17v21h-17z" />
+    <path aria-label="I" d="M226 118h17v21h-17z M248 118h17v21h-17z M270 118h17v21h-17z M292 118h17v21h-17z M314 118h17v21h-17z M270 145h17v21h-17z M270 172h17v21h-17z M270 199h17v21h-17z M270 226h17v21h-17z M270 253h17v21h-17z M226 280h17v21h-17z M248 280h17v21h-17z M270 280h17v21h-17z M292 280h17v21h-17z M314 280h17v21h-17z" />
+    <path aria-label="M" d="M380 118h17v21h-17z M468 118h17v21h-17z M380 145h17v21h-17z M402 145h17v21h-17z M446 145h17v21h-17z M468 145h17v21h-17z M380 172h17v21h-17z M424 172h17v21h-17z M468 172h17v21h-17z M380 199h17v21h-17z M424 199h17v21h-17z M468 199h17v21h-17z M380 226h17v21h-17z M468 226h17v21h-17z M380 253h17v21h-17z M468 253h17v21h-17z M380 280h17v21h-17z M468 280h17v21h-17z" />
+    <path aria-label="A" d="M556 118h17v21h-17z M578 118h17v21h-17z M600 118h17v21h-17z M534 145h17v21h-17z M622 145h17v21h-17z M534 172h17v21h-17z M622 172h17v21h-17z M534 199h17v21h-17z M556 199h17v21h-17z M578 199h17v21h-17z M600 199h17v21h-17z M622 199h17v21h-17z M534 226h17v21h-17z M622 226h17v21h-17z M534 253h17v21h-17z M622 253h17v21h-17z M534 280h17v21h-17z M622 280h17v21h-17z" />
+    <path aria-label="N" d="M688 118h17v21h-17z M776 118h17v21h-17z M688 145h17v21h-17z M710 145h17v21h-17z M776 145h17v21h-17z M688 172h17v21h-17z M710 172h17v21h-17z M776 172h17v21h-17z M688 199h17v21h-17z M732 199h17v21h-17z M776 199h17v21h-17z M688 226h17v21h-17z M754 226h17v21h-17z M776 226h17v21h-17z M688 253h17v21h-17z M754 253h17v21h-17z M776 253h17v21h-17z M688 280h17v21h-17z M776 280h17v21h-17z" />
+    <path aria-label="S" d="M864 118h17v21h-17z M886 118h17v21h-17z M908 118h17v21h-17z M930 118h17v21h-17z M842 145h17v21h-17z M842 172h17v21h-17z M864 199h17v21h-17z M886 199h17v21h-17z M908 199h17v21h-17z M930 226h17v21h-17z M930 253h17v21h-17z M842 280h17v21h-17z M864 280h17v21h-17z M886 280h17v21h-17z M908 280h17v21h-17z" />
+    <path aria-label="U" d="M996 118h17v21h-17z M1084 118h17v21h-17z M996 145h17v21h-17z M1084 145h17v21h-17z M996 172h17v21h-17z M1084 172h17v21h-17z M996 199h17v21h-17z M1084 199h17v21h-17z M996 226h17v21h-17z M1084 226h17v21h-17z M996 253h17v21h-17z M1084 253h17v21h-17z M1018 280h17v21h-17z M1040 280h17v21h-17z M1062 280h17v21h-17z" />
+  </g>
+  <g font-family="Menlo, 'Courier New', monospace">
+    <text x="72" y="358" fill="#c0f7c6" font-size="19">Namaste. Welcome to my corner of the internet.</text>
+    <text x="72" y="393" fill="#89f79b" font-size="19">Full Stack Developer</text>
+    <text x="72" y="426" fill="#a3c8a6" font-size="16">Deep Learning / LLMs / Agentic AI / DevOps / Server Management</text>
+    <path d="M36 448H1164" stroke="#37563c" />
+    <text x="36" y="477" fill="#89f79b" font-size="17">guest@himansu:~$</text>
+    <rect x="212" y="462" width="10" height="19" fill="#89f79b" />
+    <text x="1164" y="476" text-anchor="end" fill="#8aaf8b" font-size="13">UTF-8  |  /home/himansu</text>
+  </g>
+  <rect x="8" y="45" width="1184" height="446" fill="url(#scanlines)" pointer-events="none" />
+</svg>

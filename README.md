@@ -1,36 +1,74 @@
-<p><img align="center" src="./assets/images/header.png" alt="header" /></p>
+<p align="center">
+  <img src="./assets/images/profile-banner.svg" width="100%" alt="Retro green-screen terminal: Himansu. Full Stack Developer. Deep Learning / LLMs / Agentic AI / DevOps / Server Management." />
+</p>
 
-<h3>About me:</h3>
-<ul>
-    <li>Currently working as Systems and Solution Engineer at Intel Corporation.</li>
-    <li>Completed Master of Technology in 2025 from National Institute of Technlogy Jalandhar.</li>
-    <li>Graduated in 2023 with a Bachelor of Engineering in Computer Engineering.</li>
-    <li>Proficient in Full Stack and Android App Development.</li>
-    <li>Planning to do some Linux Kernal Development.</li>
-    <li>Area of interests are Deep Learning and Large Language Models.</li>
-</ul>
-  
-<h3>Frameworks and Languages:</h3>
-  
-![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
-![React](https://img.shields.io/badge/React-61dbfb?style=flat-square&logo=React&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-c3002f?style=flat-square&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-white?style=flat-square&logo=Flutter&logoColor=61dbfb)
-![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=Express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+<p align="center">
+  <a href="#whoami"><code>[1] whoami</code></a> &nbsp;
+  <a href="#stack"><code>[2] stack</code></a> &nbsp;
+  <a href="https://github.com/himansu9805?tab=repositories"><code>[3] repositories</code></a> &nbsp;
+  <a href="https://github.com/himansu9805?tab=stars"><code>[4] bookmarks</code></a>
+</p>
 
-<h3>Databases:</h3>
+<a name="whoami"></a>
 
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+### `guest@himansu:~$ whoami`
 
-<h3>DevOps:</h3>
+```text
+NAME     Himansu
+ROLE     Full Stack Developer
 
-![Docker](https://img.shields.io/badge/Docker-1d63ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1d63ed?style=flat-square&logo=kubernetes&logoColor=white)
+Namaste. I build web and Android applications, work with AI,
+and manage the infrastructure that keeps software running.
+
+INTERESTS
+  [01] Full-stack development
+  [02] Deep learning & large language models
+  [03] Agentic AI
+  [04] DevOps & server management
+```
+
+<a name="stack"></a>
+
+### `guest@himansu:~$ tree toolbox/`
+
+```text
+toolbox/
+|
++-- languages/
+|   +-- C++ / Python / Go
+|   `-- JavaScript / TypeScript
+|
++-- frontend/
+|   `-- React / Angular
+|
++-- backend/
+|   `-- Express / FastAPI / Flask / Spring Boot / .NET
+|
++-- databases-and-caching/
+|   `-- PostgreSQL / MongoDB / Redis
+|
++-- messaging-and-streaming/
+|   `-- RabbitMQ / Apache Kafka
+|
+`-- infrastructure/
+    `-- Docker / Kubernetes
+```
+
+### `guest@himansu:~$ cat background.txt`
+
+```text
+2025  M.Tech
+      National Institute of Technology Jalandhar
+
+2023  B.E. in Computer Engineering
+
+NEXT  Explore Linux internals & kernel development.
+```
+
+### `guest@himansu:~$ ls -l links/`
+
+[`repositories/`](https://github.com/himansu9805?tab=repositories) &nbsp; [`bookmarks/`](https://github.com/himansu9805?tab=stars)
+
+```text
+guest@himansu:~$ _
+```
